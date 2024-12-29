@@ -4,7 +4,7 @@ description: >-
   Bienvenue sur mon portfolio professionnel.  
   Découvrez mes projets d'analyses de données, mes dashboards Power BI et mes visualisations interactives.  
 baseurl: ""  # Laisser vide si le site est à la racine du dépôt
-url: "https://kadri-mohamed.github.io"  # URL de ton site
+url: "https://kadrimohamed.github.io/Portfolio/"  # URL de ton site
 
 # --- Thème et apparence ---
 theme: jekyll-theme-cayman  
@@ -14,8 +14,8 @@ github:
 
 # --- SEO et réseaux sociaux ---
 author: Kadri Mohamed  
-email: tonemail@example.com  
-linkedin: https://linkedin.com/in/kadri-mohamed  
+email: kadrimed95@gmail.com
+linkedin: https://www.linkedin.com/in/kadrimohamed/
 github_username: kadri-mohamed  
 keywords: "Data Analyst, Power BI, Tableau de bord, Visualisation, Agroalimentaire"  
 favicon: "/assets/favicon.ico"  # Icône du site (facultatif)
