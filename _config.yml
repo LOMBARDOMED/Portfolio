@@ -1,1 +1,30 @@
+# Site settings
+title: "Mohamed KADRI - Data Analyst Portfolio"
+description: "Portfolio showcasing my skills and data analysis projects using Power BI and Excel"
+baseurl: "/"
+url: "https://yourusername.github.io"  # Remplacez 'yourusername' par votre nom d'utilisateur GitHub
+repository: "https://github.com/yourusername/yourrepository"  # Lien vers votre repository GitHub
+
+# Theme settings
+theme: "minimal"  # Choisissez un thème ou définissez votre propre style CSS
+
+# Social settings
+social:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/mohamedkadri"  # Remplacez avec votre lien LinkedIn
+  - name: "GitHub"
+    url: "https://github.com/yourusername"  # Remplacez avec votre lien GitHub
+
+navigation:
+  - name: "Home"
+    url: "/"
+  - name: "About Me"
+    url: "/about.html"
+  - name: "Skills"
+    url: "/skills.html"
+  - name: "Contact Me"
+    url: "/contact.html"
+
+# Other configurations
+markdown: kramdown
 
