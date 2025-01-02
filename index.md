@@ -13,10 +13,13 @@
         <p>Data Analyst & Financial Controller | Expert in Power BI and Advanced Excel Skills</p>
     </header>
 
-    <nav>
-        <a href="about.html">About Me</a> |
-        <a href="skills.html">Skills</a>
-    </nav>
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About Me</a> |
+    <a href="skills.html">Skills</a> |
+    <a href="projects.html">Projects</a> |
+    <a href="contact.html">Contact Me</a>
+</nav>
 
     <section class="projects">
         <h2>My Projects</h2>
