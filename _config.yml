@@ -22,8 +22,11 @@ navigation:
     url: "/about.html"
   - name: "Skills"
     url: "/skills.html"
+  - name: "Projects"
+    url: "/projects.html"
   - name: "Contact Me"
     url: "/contact.html"
+
 
 # Other configurations
 markdown: kramdown
